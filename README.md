@@ -6,3 +6,4 @@ This list is a complement to [awesome public datasets](https://github.com/awesom
 
  - [Coinbase](https://docs.pro.coinbase.com/#websocket-feed) - Coinbase provides a free market data fee; giving access to real-time price updates, level 2 data, orders and matches. This is a high frequency feed with hundreds of events each second.
  - [IEX Trading](https://iextrading.com/developer/docs/) - IEX was created in response to questionable trading practices that had become widely used across traditional exhcanges! Their API provides streaming Stock market data.
+ - [Blockchain transactions](https://www.blockchain.com/api/api_websocket) - Provides real-time notifications about new transactions and blocks.
