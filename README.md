@@ -11,5 +11,6 @@ The list includes both free APIs, and those which you have to pay to use - 💰
  - [Blockchain transactions](https://www.blockchain.com/api/api_websocket) - Provides real-time notifications about new transactions and blocks.
  - [Open Rail Data](https://wiki.openraildata.com/index.php/Rail_Data_FAQ) - A collection of APIs that provide data relating to the UK rail network, including reference data, train timetables, and live service updates. The live data is streamed using the STOMP protocol.
  - [CoinCap](https://docs.coincap.io/) - provides real-time pricing and market activity for over 1,000 cryptocurrencies.
+ - [CoinCheck](https://coincheck.com/documents/exchange/api#websocket) - a cryptocurrency API that has a WebSocket interface (in beta)
  - 💰 [Twitter](https://developer.twitter.com/en/docs/tutorials/consuming-streaming-data.html) - Twitter provides a streaming interface for Enterprise clients 
  - 💰 [Saxo Bank OpenAPI](https://www.developer.saxo/) - This API provides access to Saxo Bank's trading engine, which includes streaming price feeds.
