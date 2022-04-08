@@ -15,3 +15,4 @@ The list includes both free APIs, and those which you have to pay to use - 💰
  - [CoinCheck](https://coincheck.com/documents/exchange/api#websocket) - a cryptocurrency API that has a WebSocket interface (in beta)
  - 💰 [Twitter](https://developer.twitter.com/en/docs/tutorials/consuming-streaming-data.html) - Twitter provides a streaming interface for Enterprise clients 
  - 💰 [Saxo Bank OpenAPI](https://www.developer.saxo/) - This API provides access to Saxo Bank's trading engine, which includes streaming price feeds.
+ - [EventSim](https://github.com/viirya/eventsim) - Program that generates event data for a fake music web site (similar to Spotify).
