@@ -2,7 +2,7 @@
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-This list is a complement to [awesome public datasets](https://github.com/awesomedata/awesome-public-datasets), providing a list of datasets that provide a streaming interface, typically via WebSockets.
+This list is a complement to [awesome public datasets](https://github.com/awesomedata/awesome-public-datasets), a list of datasets that provide a streaming interface, typically via WebSockets.
 
 The list includes both free APIs, and those which you have to pay to use - 💰
 
