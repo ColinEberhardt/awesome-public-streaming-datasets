@@ -18,3 +18,4 @@ The list includes both free APIs, and those which you have to pay to use - 💰
  - 💰 [Saxo Bank OpenAPI](https://www.developer.saxo/) - This API provides access to Saxo Bank's trading engine, which includes streaming price feeds.
  - [EventSim](https://github.com/viirya/eventsim) - Program that generates event data for a fake music web site (similar to Spotify).
  - 💰 [ShadowTraffic](https://shadowtraffic.io/) - ShadowTraffic provides free and paid editions of a developer tool for generating synthetic streaming data. Mostly useful for stream processing data.
+ - 💰 [TomTom Traffic](https://api.midway.tomtom.com/ranking/liveHourly/MYS_kuala-lumpur) - Just Kuala Lumpur traffic data LIVE
