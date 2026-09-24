@@ -12,7 +12,7 @@ The list includes both free APIs, and those which you have to pay to use - 💰
  - [Blockchain transactions](https://www.blockchain.com/api/api_websocket) - Provides real-time notifications about new transactions and blocks.
  - [Open Rail Data](https://wiki.openraildata.com/index.php/Rail_Data_FAQ) - A collection of APIs that provide data relating to the UK rail network, including reference data, train timetables, and live service updates. The live data is streamed using the STOMP protocol.
  - [CoinCap](https://docs.coincap.io/) - provides real-time pricing and market activity for over 1,000 cryptocurrencies.
- - [DexPaprika](https://api.dexpaprika.com) - Free real-time DEX data across 34 blockchains via SSE streaming. 30M+ pools, 27M+ tokens, ~1 second price updates. No API key, no rate limits. [Streaming docs](https://docs.dexpaprika.com/streaming/introduction).
+ - [DexPaprika](https://api.dexpaprika.com) - DEX data for 36 blockchains via SSE streaming, pushed as swaps land. 36M+ pools, 33M+ tokens. Free tier, no API key required ([plans and limits](https://dexpaprika.com/api/pricing)). [Streaming docs](https://docs.dexpaprika.com/streaming/introduction).
  - [Finnhub Stock API](https://finnhub.io/) - Real-Time RESTful APIs and Websocket for Stocks, Currencies, and Crypto.
  - [CoinCheck](https://coincheck.com/documents/exchange/api#websocket) - a cryptocurrency API that has a WebSocket interface (in beta)
  - 💰 [Twitter](https://developer.twitter.com/en/docs/tutorials/consuming-streaming-data.html) - Twitter provides a streaming interface for Enterprise clients 
